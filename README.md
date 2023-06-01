@@ -1,5 +1,5 @@
 # pressForKeycode
-Deployed Application:[KeyCode]()
+Deployed Application:[KeyCode](https://kaylaanngrace.github.io/pressForKeycode/)
 
 ## Table-of-Contents 
 
@@ -30,6 +30,7 @@ If you have any tips or find any issues with this application, Please open a new
 - JavaScript
 - HTML
 - CSS
+- Github Pages for Deployment
 
 ## Questions
 
